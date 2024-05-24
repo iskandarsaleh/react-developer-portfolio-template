@@ -6,15 +6,15 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href="https://pavanmg.in"
+          href="http://nukamari.com"
           target="_blank"
           rel="noreferrer noopener"
         >
-          Pavan MG
+          sisalehiskandar
         </a>{" "}
         with
-        <span className="text-gradient font-medium"> Love</span> &
-        <span className="text-gradient font-medium"> Coffee</span>
+        <span className="text-gradient font-medium"> work with</span> &
+        <span className="text-gradient font-medium"> passion</span>
       </p>
     </footer>
   );

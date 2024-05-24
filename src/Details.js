@@ -35,60 +35,60 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "saleh iskandar",
+  tagline: "all about software quality assurance",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `just another project`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/saleh-iskandar-87b3b5113/",
+  github: "https://www.github.com/iskandarsaleh",
+  // twitter: "https://twitter.com/",
+  // instagram: "https://www.instagram.com/",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Senior Software Quality Assurance",
+    Company: `VIDA Digital Identity`,
+    Location: "Jakarta",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Jun 2022 - Apr 2024",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Quality Assurance Specialist",
+    Company: `OttoDigital`,
+    Location: "Jakarta",
+    Type: "Full Time",
+    Duration: "Dec 2018 - Jun 2022",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Software Quality Assurance",
+    Company: `JPx`,
+    Location: "Jakarta",
+    Type: "Full Time",
+    Duration: "Mar 2018 - Dec 2018",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Position: "Management Agribusiness",
+    Company: "Bogor Agricultural University",
+    Location: "Bogor",
+    // Type: "Full Time",
+    // Duration: "Jan 2022 - Present",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "Bachelor of Economics",
+    Company: `University of Binaniaga`,
+    Location: "Bogor",
+    // Type: "Full Time",
+    // Duration: "Aug 2020 - Present",
   },
 ];
 
@@ -113,56 +113,50 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "ISO-8583",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `international standard for financial transaction card originated interchange messaging. It is the International Organization for Standardization standard for systems that exchange electronic transactions initiated by cardholders using payment cards`,
+    techstack: "Golang, Postman-newman, sonarqube",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 2",
+    title: "QRIS",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Quick Response Code Indonesia Standard (abbreviated as QRIS, the abbreviation being a play on keris, a traditional sword; Indonesian: Kode QR Standar Indonesia) is a QR code standard developed by Bank Indonesia (BI) and Indonesian Payment System Association for cashless payments in Indonesia.`,
+    techstack: "Golang, Pstman-newman, sonarqube, locust",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 3",
+    title: "Digital Signature",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature on a message gives a recipient confidence that the message came from a sender known to the recipient.`,
+    techstack: "Java, Postman-newman, jmeter",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 4",
+    title: "Emeterai",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `digital emeterai`,
+    techstack: "Java, Postman-newman, jmeter, pytest",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 5",
+    title: "Income Verification",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Verify income of user`,
+    techstack: "Java, Postman-newman, pytest"
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 6",
+    title: "Cloud Signature Consortium",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Cloud signature Consortium`,
+    techstack: "Java, Postman-newman, linux-Curl",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
@@ -170,6 +164,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "sisalehiskandar@gmail.com",
+  phone: "+62 819 0805 1279",
 };
