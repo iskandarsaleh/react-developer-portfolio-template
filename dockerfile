@@ -26,5 +26,5 @@ COPY --from=build /app/build /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/nukamari.com.conf
 
 # Expose port 80
-EXPOSE 8083
+EXPOSE 8082
 CMD ["nginx", "-g", "daemon off;"]
