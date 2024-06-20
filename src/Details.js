@@ -5,14 +5,14 @@ import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/profile.jpg";
 // Tech stack images
-import html from "./assets/techstack/html.png";
-import css from "./assets/techstack/css.png";
-import sass from "./assets/techstack/sass.png";
+import sonarqube from "./assets/techstack/sonarqube_logo_1.png";
+import bitbucket from "./assets/techstack/bitbucket_logo.png";
+import confluence from "./assets/techstack/confluence_logo_1.webp";
 import js from "./assets/techstack/js.png";
-import react from "./assets/techstack/react.png";
-import redux from "./assets/techstack/redux.png";
-import tailwind from "./assets/techstack/tailwind.png";
-import bootstrap from "./assets/techstack/bootstrap.png";
+import k8s from "./assets/techstack/k8s_logo_1.png";
+import jira from "./assets/techstack/jira_logo_1.png";
+import pytest from "./assets/techstack/Pytest_logo.png";
+import python from "./assets/techstack/python_logo_1.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
@@ -94,14 +94,15 @@ export const eduDetails = [
 
 // Tech Stack and Tools
 export const techStackDetails = {
-  html: html,
-  css: css,
+  sonarqube: sonarqube,
+  bitbucket: bitbucket,
   js: js,
-  react: react,
-  redux: redux,
-  sass: sass,
-  tailwind: tailwind,
-  bootstrap: bootstrap,
+  confluence: confluence,
+  jenkins: Jenkins,
+  jira: jira,
+  k8s: k8s,
+  pytest: pytest,
+  python: python,
   vscode: vscode,
   postman: postman,
   npm: npm,

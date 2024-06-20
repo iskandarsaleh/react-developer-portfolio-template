@@ -3,14 +3,14 @@ import { techStackDetails } from "../Details";
 
 function Technologies() {
   const {
-    sonarqube_logo_1,
-    bitbucket_logo,
+    sonarqube,
+    bitbucket,
     js,
-    confluence_logo_1,
-    jenkins_logo_1,
-    jira_logo_1,
-    k8s_logo_1,
-    argocd_logo,
+    confluence,
+    jenkins,
+    jira,
+    k8s,
+    argocd,
     vscode,
     git,
     github,
@@ -29,14 +29,14 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
-        <img src={sonarqube_logo_1} title="sonarqube" alt="" />
-        <img src={bitbucket_logo} title="CSS" alt="" />
+        <img src={sonarqube} title="sonarqube" alt="" />
+        <img src={bitbucket} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
-        <img src={confluence_logo_1} title="Confluence" alt="" />
-        <img src={jenkins_logo_1} title="Jenkins" alt="" />
-        <img src={jira_logo_1} title="Jira" alt="" />
-        <img src={k8s_logo_1} title="K8s" alt="" />
-        <img src={argocd_logo} title="ArgoCD" alt="" />
+        <img src={confluence} title="Confluence" alt="" />
+        <img src={jenkins} title="Jenkins" alt="" />
+        <img src={jira} title="Jira" alt="" />
+        <img src={k8s} title="K8s" alt="" />
+        <img src={argocd} title="ArgoCD" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
