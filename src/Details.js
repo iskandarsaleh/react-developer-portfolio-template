@@ -12,7 +12,7 @@ import js from "./assets/techstack/js.png";
 import k8s from "./assets/techstack/k8s_logo_1.png";
 import jira from "./assets/techstack/jira_logo_1.png";
 import pytest from "./assets/techstack/Pytest_logo.png";
-import python from "./assets/techstack/python_logo_1.png";
+import Jenkins from "./assets/techstack/jenkins_logo_1.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
@@ -158,8 +158,8 @@ export const projectDetails = [
     image: projectImage6,
     description: `Cloud signature Consortium`,
     techstack: "Java, Postman-newman, linux-Curl",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
 ];
 

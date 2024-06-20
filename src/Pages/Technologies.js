@@ -29,7 +29,7 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
-        <img src={sonarqube} title="sonarqube" alt="" />
+        <img src={sonarqube} title="Sonarqube" alt="" />
         <img src={bitbucket} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={confluence} title="Confluence" alt="" />
